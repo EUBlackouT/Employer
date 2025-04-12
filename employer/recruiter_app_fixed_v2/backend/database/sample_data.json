@@ -1,0 +1,415 @@
+{
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Python",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "GraphQL",
+    "HTML/CSS",
+    "Vue.js",
+    "UI/UX Design",
+    "Responsive Design",
+    "TypeScript",
+    "R",
+    "Machine Learning",
+    "TensorFlow",
+    "SQL",
+    "Big Data",
+    "Data Visualization",
+    "Product Management",
+    "Agile Methodologies",
+    "User Research",
+    "Data Analysis",
+    "Wireframing",
+    "Jira",
+    "Java",
+    "Spring Boot",
+    "MongoDB",
+    "Git",
+    "RESTful APIs",
+    "Network Security",
+    "Penetration Testing",
+    "SIEM",
+    "Vulnerability Assessment",
+    "Incident Response",
+    "Cloud Security",
+    "Terraform",
+    "CI/CD",
+    "Linux",
+    "Bash Scripting",
+    "Figma",
+    "Adobe XD",
+    "Prototyping",
+    "Usability Testing",
+    "Windows Server",
+    "Active Directory",
+    "Network Troubleshooting",
+    "Hardware Support",
+    "Help Desk",
+    "PowerShell",
+    "Deep Learning",
+    "Natural Language Processing",
+    "PyTorch",
+    "Computer Vision",
+    "Research"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Certified Scrum Master",
+    "Google UX Design Certificate",
+    "TensorFlow Developer Certificate",
+    "Microsoft Certified: Azure Data Scientist Associate",
+    "Certified Product Manager",
+    "Certified Scrum Product Owner",
+    "Oracle Certified Professional: Java SE 11 Developer",
+    "Certified Information Systems Security Professional (CISSP)",
+    "Certified Ethical Hacker (CEH)",
+    "CompTIA Security+",
+    "AWS Certified DevOps Engineer",
+    "Kubernetes Administrator (CKA)",
+    "Certified User Experience Professional",
+    "CompTIA A+",
+    "Microsoft Certified: Azure Administrator Associate",
+    "NVIDIA Deep Learning Institute Certificate"
+  ],
+  "applicants": [
+    {
+      "name": "Alex Johnson",
+      "email": "alex.johnson@example.com",
+      "phone": "(555) 123-4567",
+      "educationLevel": "Master's",
+      "institution": "Stanford University",
+      "major": "Computer Science",
+      "experienceYears": 8,
+      "currentPosition": "Senior Software Engineer",
+      "currentCompany": "TechCorp Inc.",
+      "location": "San Francisco, CA",
+      "willingToRelocate": false,
+      "desiredSalary": 145000,
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Python",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "GraphQL"
+      ],
+      "certifications": [
+        "AWS Certified Solutions Architect",
+        "Certified Scrum Master"
+      ]
+    },
+    {
+      "name": "Samantha Lee",
+      "email": "samantha.lee@example.com",
+      "phone": "(555) 987-6543",
+      "educationLevel": "Bachelor's",
+      "institution": "MIT",
+      "major": "Computer Engineering",
+      "experienceYears": 5,
+      "currentPosition": "Frontend Developer",
+      "currentCompany": "WebSolutions LLC",
+      "location": "Boston, MA",
+      "willingToRelocate": true,
+      "desiredSalary": 110000,
+      "skills": [
+        "HTML/CSS",
+        "JavaScript",
+        "React",
+        "Vue.js",
+        "UI/UX Design",
+        "Responsive Design",
+        "TypeScript"
+      ],
+      "certifications": [
+        "Google UX Design Certificate"
+      ]
+    },
+    {
+      "name": "Michael Rodriguez",
+      "email": "michael.r@example.com",
+      "phone": "(555) 456-7890",
+      "educationLevel": "PhD",
+      "institution": "UC Berkeley",
+      "major": "Data Science",
+      "experienceYears": 10,
+      "currentPosition": "Data Scientist",
+      "currentCompany": "DataInsights Corp",
+      "location": "Seattle, WA",
+      "willingToRelocate": false,
+      "desiredSalary": 160000,
+      "skills": [
+        "Python",
+        "R",
+        "Machine Learning",
+        "TensorFlow",
+        "SQL",
+        "Big Data",
+        "Data Visualization"
+      ],
+      "certifications": [
+        "TensorFlow Developer Certificate",
+        "Microsoft Certified: Azure Data Scientist Associate"
+      ]
+    },
+    {
+      "name": "Emily Chen",
+      "email": "emily.chen@example.com",
+      "phone": "(555) 234-5678",
+      "educationLevel": "Master's",
+      "institution": "Carnegie Mellon University",
+      "major": "Information Systems",
+      "experienceYears": 6,
+      "currentPosition": "Product Manager",
+      "currentCompany": "ProductHub Inc.",
+      "location": "Austin, TX",
+      "willingToRelocate": true,
+      "desiredSalary": 130000,
+      "skills": [
+        "Product Management",
+        "Agile Methodologies",
+        "User Research",
+        "Data Analysis",
+        "Wireframing",
+        "SQL",
+        "Jira"
+      ],
+      "certifications": [
+        "Certified Product Manager",
+        "Certified Scrum Product Owner"
+      ]
+    },
+    {
+      "name": "David Wilson",
+      "email": "david.wilson@example.com",
+      "phone": "(555) 345-6789",
+      "educationLevel": "Bachelor's",
+      "institution": "University of Washington",
+      "major": "Software Engineering",
+      "experienceYears": 3,
+      "currentPosition": "Backend Developer",
+      "currentCompany": "ServerTech Solutions",
+      "location": "Portland, OR",
+      "willingToRelocate": true,
+      "desiredSalary": 95000,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "MongoDB",
+        "Docker",
+        "Git",
+        "RESTful APIs"
+      ],
+      "certifications": [
+        "Oracle Certified Professional: Java SE 11 Developer"
+      ]
+    },
+    {
+      "name": "Olivia Martinez",
+      "email": "olivia.m@example.com",
+      "phone": "(555) 567-8901",
+      "educationLevel": "Master's",
+      "institution": "Georgia Tech",
+      "major": "Cybersecurity",
+      "experienceYears": 7,
+      "currentPosition": "Security Engineer",
+      "currentCompany": "SecureDefense Inc.",
+      "location": "Atlanta, GA",
+      "willingToRelocate": false,
+      "desiredSalary": 135000,
+      "skills": [
+        "Network Security",
+        "Penetration Testing",
+        "SIEM",
+        "Python",
+        "Vulnerability Assessment",
+        "Incident Response",
+        "Cloud Security"
+      ],
+      "certifications": [
+        "Certified Information Systems Security Professional (CISSP)",
+        "Certified Ethical Hacker (CEH)",
+        "CompTIA Security+"
+      ]
+    },
+    {
+      "name": "James Taylor",
+      "email": "james.t@example.com",
+      "phone": "(555) 678-9012",
+      "educationLevel": "Bachelor's",
+      "institution": "University of Texas",
+      "major": "Computer Science",
+      "experienceYears": 4,
+      "currentPosition": "DevOps Engineer",
+      "currentCompany": "CloudOps Solutions",
+      "location": "Denver, CO",
+      "willingToRelocate": true,
+      "desiredSalary": 115000,
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Linux",
+        "Python",
+        "Bash Scripting"
+      ],
+      "certifications": [
+        "AWS Certified DevOps Engineer",
+        "Kubernetes Administrator (CKA)"
+      ]
+    },
+    {
+      "name": "Sophia Kim",
+      "email": "sophia.kim@example.com",
+      "phone": "(555) 789-0123",
+      "educationLevel": "Master's",
+      "institution": "UCLA",
+      "major": "Human-Computer Interaction",
+      "experienceYears": 6,
+      "currentPosition": "UX Designer",
+      "currentCompany": "DesignFirst Agency",
+      "location": "Los Angeles, CA",
+      "willingToRelocate": false,
+      "desiredSalary": 120000,
+      "skills": [
+        "UI/UX Design",
+        "User Research",
+        "Figma",
+        "Adobe XD",
+        "Prototyping",
+        "Usability Testing",
+        "HTML/CSS"
+      ],
+      "certifications": [
+        "Certified User Experience Professional"
+      ]
+    },
+    {
+      "name": "Robert Garcia",
+      "email": "robert.g@example.com",
+      "phone": "(555) 890-1234",
+      "educationLevel": "Bachelor's",
+      "institution": "NYU",
+      "major": "Information Technology",
+      "experienceYears": 2,
+      "currentPosition": "IT Support Specialist",
+      "currentCompany": "TechSupport Inc.",
+      "location": "New York, NY",
+      "willingToRelocate": true,
+      "desiredSalary": 75000,
+      "skills": [
+        "Windows Server",
+        "Active Directory",
+        "Network Troubleshooting",
+        "Hardware Support",
+        "Help Desk",
+        "PowerShell"
+      ],
+      "certifications": [
+        "CompTIA A+",
+        "Microsoft Certified: Azure Administrator Associate"
+      ]
+    },
+    {
+      "name": "Emma Davis",
+      "email": "emma.d@example.com",
+      "phone": "(555) 901-2345",
+      "educationLevel": "PhD",
+      "institution": "Harvard University",
+      "major": "Artificial Intelligence",
+      "experienceYears": 9,
+      "currentPosition": "AI Research Scientist",
+      "currentCompany": "InnovateAI Research",
+      "location": "Cambridge, MA",
+      "willingToRelocate": false,
+      "desiredSalary": 175000,
+      "skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Computer Vision",
+        "Research"
+      ],
+      "certifications": [
+        "NVIDIA Deep Learning Institute Certificate"
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Senior Full Stack Developer",
+      "department": "Engineering",
+      "description": "We are looking for an experienced Full Stack Developer to join our engineering team. The ideal candidate will have strong experience with both frontend and backend technologies.",
+      "requirements": {
+        "minEducationLevel": "Bachelor's",
+        "minExperienceYears": 5,
+        "locationPreference": "San Francisco, CA",
+        "relocationRequired": false,
+        "minSalary": 120000,
+        "maxSalary": 160000
+      },
+      "requiredSkills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS"
+      ],
+      "requiredCertifications": []
+    },
+    {
+      "title": "Data Scientist",
+      "department": "Analytics",
+      "description": "We are seeking a Data Scientist to help us derive insights from our data and build predictive models.",
+      "requirements": {
+        "minEducationLevel": "Master's",
+        "minExperienceYears": 3,
+        "locationPreference": "Seattle, WA",
+        "relocationRequired": false,
+        "minSalary": 130000,
+        "maxSalary": 170000
+      },
+      "requiredSkills": [
+        "Python",
+        "Machine Learning",
+        "SQL",
+        "Data Visualization"
+      ],
+      "requiredCertifications": []
+    },
+    {
+      "title": "DevOps Engineer",
+      "department": "Infrastructure",
+      "description": "We are looking for a DevOps Engineer to help us automate our infrastructure and deployment processes.",
+      "requirements": {
+        "minEducationLevel": "Bachelor's",
+        "minExperienceYears": 3,
+        "locationPreference": "Austin, TX",
+        "relocationRequired": true,
+        "minSalary": 110000,
+        "maxSalary": 140000
+      },
+      "requiredSkills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Linux"
+      ],
+      "requiredCertifications": [
+        "AWS Certified DevOps Engineer"
+      ]
+    }
+  ]
+}

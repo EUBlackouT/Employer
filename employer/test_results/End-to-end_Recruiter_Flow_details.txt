@@ -1,0 +1,1 @@
+End-to-end recruiter flow test would be performed here

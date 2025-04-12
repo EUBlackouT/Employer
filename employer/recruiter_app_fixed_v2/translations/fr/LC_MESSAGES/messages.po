@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recruiter App\n"
+"POT-Creation-Date: 2025-04-12 11:50+0000\n"
+"PO-Revision-Date: 2025-04-12 11:50+0000\n"
+"Last-Translator: AI Assistant\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "jobRequirements"
+msgstr "Exigences du Poste"
+
+msgid "findMatchingApplicants"
+msgstr "Trouver des Candidats Correspondants"
+
+msgid "matchingApplicants"
+msgstr "Candidats Correspondants"
+
+msgid "noApplicantsMatch"
+msgstr "Aucun candidat ne correspond à vos exigences. Essayez d'ajuster vos critères."
+
+msgid "sortBy"
+msgstr "Trier par:"
+
+msgid "matchScore"
+msgstr "Score de Correspondance"
+
+msgid "name"
+msgstr "Nom"
+
+msgid "experience"
+msgstr "Expérience"
+
+msgid "searchResults"
+msgstr "Rechercher des résultats..."
+
+msgid "export"
+msgstr "Exporter"
+
+msgid "contactApplicant"
+msgstr "Contacter le Candidat"
+
+msgid "close"
+msgstr "Fermer"
+
+msgid "jobTitle"
+msgstr "Titre du Poste"
+
+msgid "department"
+msgstr "Département"
+
+msgid "jobDescription"
+msgstr "Description du Poste"
+
+msgid "educationLevel"
+msgstr "Niveau d'Éducation"
+
+msgid "experienceYears"
+msgstr "Années d'Expérience"
+
+msgid "requiredSkills"
+msgstr "Compétences Requises"
+
+msgid "preferredSkills"
+msgstr "Compétences Préférées"
+
+msgid "requiredCertifications"
+msgstr "Certifications Requises"
+
+msgid "locationPreference"
+msgstr "Préférence de Lieu"
+
+msgid "relocationRequired"
+msgstr "Relocalisation Requise"
+
+msgid "minSalary"
+msgstr "Salaire Minimum"
+
+msgid "maxSalary"
+msgstr "Salaire Maximum"
+
+msgid "addSkill"
+msgstr "Ajouter une Compétence"
+
+msgid "addCertification"
+msgstr "Ajouter une Certification"
+
+msgid "yes"
+msgstr "Oui"
+
+msgid "no"
+msgstr "Non"
+
+msgid "selectEducationLevel"
+msgstr "Sélectionnez le niveau d'éducation"
+
+msgid "highSchool"
+msgstr "Lycée"
+
+msgid "associatesDegree"
+msgstr "Diplôme d'Associé"
+
+msgid "bachelorsDegree"
+msgstr "Licence"
+
+msgid "mastersDegree"
+msgstr "Master"
+
+msgid "phd"
+msgstr "Doctorat"
+
+msgid "contactInfo"
+msgstr "Coordonnées"
+
+msgid "email"
+msgstr "Email:"
+
+msgid "phone"
+msgstr "Téléphone:"
+
+msgid "education"
+msgstr "Formation"
+
+msgid "degree"
+msgstr "Diplôme:"
+
+msgid "institution"
+msgstr "Institution:"
+
+msgid "major"
+msgstr "Spécialité:"
+
+msgid "currentRole"
+msgstr "Poste Actuel:"
+
+msgid "company"
+msgstr "Entreprise:"
+
+msgid "location"
+msgstr "Lieu"
+
+msgid "current"
+msgstr "Actuel:"
+
+msgid "willingToRelocate"
+msgstr "Prêt à Déménager:"
+
+msgid "compensation"
+msgstr "Rémunération"
+
+msgid "desiredSalary"
+msgstr "Salaire Souhaité:"
+
+msgid "matchAnalysis"
+msgstr "Analyse de Correspondance"
+
+msgid "strengths"
+msgstr "Points Forts:"
+
+msgid "gaps"
+msgstr "Lacunes:"
+
+msgid "loadDemoData"
+msgstr "Charger les Données de Démo"
+
+msgid "skillAdded"
+msgstr "Compétence Ajoutée"
+
+msgid "skillRemoved"
+msgstr "Compétence Supprimée"
+
+msgid "certificationAdded"
+msgstr "Certification Ajoutée"
+
+msgid "certificationRemoved"
+msgstr "Certification Supprimée"
+
+msgid "searchComplete"
+msgstr "Recherche Terminée"
+
+msgid "found"
+msgstr "Trouvé"
+
+msgid "matchingApplicantsText"
+msgstr "candidats correspondants."
+
+msgid "error"
+msgstr "Erreur"
+
+msgid "failedToFetch"
+msgstr "Échec de la récupération des candidats correspondants. Veuillez réessayer."
+
+msgid "exportComplete"
+msgstr "Exportation Terminée"
+
+msgid "exported"
+msgstr "Exporté"
+
+msgid "applicantsToCSV"
+msgstr "candidats vers CSV."
+
+msgid "languageChanged"
+msgstr "Langue Modifiée"
+
+msgid "applicationLanguageChanged"
+msgstr "Langue de l'application changée en"
+
+msgid "demoDataLoaded"
+msgstr "Données de Démonstration Chargées"
+
+msgid "sampleJobRequirements"
+msgstr "Des exemples d'exigences de poste ont été chargés pour démonstration."
+
+msgid "justNow"
+msgstr "à l'instant"
+
+msgid "years"
+msgstr "Années"
+
+msgid "skills"
+msgstr "Compétences"
+
+msgid "certifications"
+msgstr "Certifications"

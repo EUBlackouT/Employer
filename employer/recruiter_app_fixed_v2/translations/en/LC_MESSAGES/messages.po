@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recruiter App\n"
+"POT-Creation-Date: 2025-04-12 11:50+0000\n"
+"PO-Revision-Date: 2025-04-12 11:50+0000\n"
+"Last-Translator: AI Assistant\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "jobRequirements"
+msgstr "Job Requirements"
+
+msgid "findMatchingApplicants"
+msgstr "Find Matching Applicants"
+
+msgid "matchingApplicants"
+msgstr "Matching Applicants"
+
+msgid "noApplicantsMatch"
+msgstr "No applicants match your requirements. Try adjusting your criteria."
+
+msgid "sortBy"
+msgstr "Sort by:"
+
+msgid "matchScore"
+msgstr "Match Score"
+
+msgid "name"
+msgstr "Name"
+
+msgid "experience"
+msgstr "Experience"
+
+msgid "searchResults"
+msgstr "Search results..."
+
+msgid "export"
+msgstr "Export"
+
+msgid "contactApplicant"
+msgstr "Contact Applicant"
+
+msgid "close"
+msgstr "Close"
+
+msgid "jobTitle"
+msgstr "Job Title"
+
+msgid "department"
+msgstr "Department"
+
+msgid "jobDescription"
+msgstr "Job Description"
+
+msgid "educationLevel"
+msgstr "Education Level"
+
+msgid "experienceYears"
+msgstr "Years of Experience"
+
+msgid "requiredSkills"
+msgstr "Required Skills"
+
+msgid "preferredSkills"
+msgstr "Preferred Skills"
+
+msgid "requiredCertifications"
+msgstr "Required Certifications"
+
+msgid "locationPreference"
+msgstr "Location Preference"
+
+msgid "relocationRequired"
+msgstr "Relocation Required"
+
+msgid "minSalary"
+msgstr "Minimum Salary"
+
+msgid "maxSalary"
+msgstr "Maximum Salary"
+
+msgid "addSkill"
+msgstr "Add Skill"
+
+msgid "addCertification"
+msgstr "Add Certification"
+
+msgid "yes"
+msgstr "Yes"
+
+msgid "no"
+msgstr "No"
+
+msgid "selectEducationLevel"
+msgstr "Select education level"
+
+msgid "highSchool"
+msgstr "High School"
+
+msgid "associatesDegree"
+msgstr "Associate's Degree"
+
+msgid "bachelorsDegree"
+msgstr "Bachelor's Degree"
+
+msgid "mastersDegree"
+msgstr "Master's Degree"
+
+msgid "phd"
+msgstr "PhD or Doctorate"
+
+msgid "contactInfo"
+msgstr "Contact Information"
+
+msgid "email"
+msgstr "Email:"
+
+msgid "phone"
+msgstr "Phone:"
+
+msgid "education"
+msgstr "Education"
+
+msgid "degree"
+msgstr "Degree:"
+
+msgid "institution"
+msgstr "Institution:"
+
+msgid "major"
+msgstr "Major:"
+
+msgid "currentRole"
+msgstr "Current Role:"
+
+msgid "company"
+msgstr "Company:"
+
+msgid "location"
+msgstr "Location"
+
+msgid "current"
+msgstr "Current:"
+
+msgid "willingToRelocate"
+msgstr "Willing to Relocate:"
+
+msgid "compensation"
+msgstr "Compensation"
+
+msgid "desiredSalary"
+msgstr "Desired Salary:"
+
+msgid "matchAnalysis"
+msgstr "Match Analysis"
+
+msgid "strengths"
+msgstr "Strengths:"
+
+msgid "gaps"
+msgstr "Gaps:"
+
+msgid "loadDemoData"
+msgstr "Load Demo Data"
+
+msgid "skillAdded"
+msgstr "Skill Added"
+
+msgid "skillRemoved"
+msgstr "Skill Removed"
+
+msgid "certificationAdded"
+msgstr "Certification Added"
+
+msgid "certificationRemoved"
+msgstr "Certification Removed"
+
+msgid "searchComplete"
+msgstr "Search Complete"
+
+msgid "found"
+msgstr "Found"
+
+msgid "matchingApplicantsText"
+msgstr "matching applicants."
+
+msgid "error"
+msgstr "Error"
+
+msgid "failedToFetch"
+msgstr "Failed to fetch matching applicants. Please try again."
+
+msgid "exportComplete"
+msgstr "Export Complete"
+
+msgid "exported"
+msgstr "Exported"
+
+msgid "applicantsToCSV"
+msgstr "applicants to CSV."
+
+msgid "languageChanged"
+msgstr "Language Changed"
+
+msgid "applicationLanguageChanged"
+msgstr "Application language changed to"
+
+msgid "demoDataLoaded"
+msgstr "Demo Data Loaded"
+
+msgid "sampleJobRequirements"
+msgstr "Sample job requirements have been loaded for demonstration."
+
+msgid "justNow"
+msgstr "just now"
+
+msgid "years"
+msgstr "Years"
+
+msgid "skills"
+msgstr "Skills"
+
+msgid "certifications"
+msgstr "Certifications"

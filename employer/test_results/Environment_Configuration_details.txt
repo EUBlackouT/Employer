@@ -1,0 +1,1 @@
+Environment configuration test would be performed here

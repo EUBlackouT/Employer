@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recruiter App\n"
+"POT-Creation-Date: 2025-04-12 11:50+0000\n"
+"PO-Revision-Date: 2025-04-12 11:50+0000\n"
+"Last-Translator: AI Assistant\n"
+"Language-Team: Dutch\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "jobRequirements"
+msgstr "Functie-eisen"
+
+msgid "findMatchingApplicants"
+msgstr "Zoek Passende Kandidaten"
+
+msgid "matchingApplicants"
+msgstr "Passende Kandidaten"
+
+msgid "noApplicantsMatch"
+msgstr "Geen kandidaten voldoen aan uw eisen. Probeer uw criteria aan te passen."
+
+msgid "sortBy"
+msgstr "Sorteer op:"
+
+msgid "matchScore"
+msgstr "Match Score"
+
+msgid "name"
+msgstr "Naam"
+
+msgid "experience"
+msgstr "Ervaring"
+
+msgid "searchResults"
+msgstr "Zoek resultaten..."
+
+msgid "export"
+msgstr "Exporteren"
+
+msgid "contactApplicant"
+msgstr "Contact Kandidaat"
+
+msgid "close"
+msgstr "Sluiten"
+
+msgid "jobTitle"
+msgstr "Functietitel"
+
+msgid "department"
+msgstr "Afdeling"
+
+msgid "jobDescription"
+msgstr "Functieomschrijving"
+
+msgid "educationLevel"
+msgstr "Opleidingsniveau"
+
+msgid "experienceYears"
+msgstr "Jaren Ervaring"
+
+msgid "requiredSkills"
+msgstr "Vereiste Vaardigheden"
+
+msgid "preferredSkills"
+msgstr "Gewenste Vaardigheden"
+
+msgid "requiredCertifications"
+msgstr "Vereiste Certificeringen"
+
+msgid "locationPreference"
+msgstr "Locatievoorkeur"
+
+msgid "relocationRequired"
+msgstr "Verhuizing Vereist"
+
+msgid "minSalary"
+msgstr "Minimumsalaris"
+
+msgid "maxSalary"
+msgstr "Maximumsalaris"
+
+msgid "addSkill"
+msgstr "Vaardigheid Toevoegen"
+
+msgid "addCertification"
+msgstr "Certificering Toevoegen"
+
+msgid "yes"
+msgstr "Ja"
+
+msgid "no"
+msgstr "Nee"
+
+msgid "selectEducationLevel"
+msgstr "Selecteer opleidingsniveau"
+
+msgid "highSchool"
+msgstr "Middelbare School"
+
+msgid "associatesDegree"
+msgstr "MBO"
+
+msgid "bachelorsDegree"
+msgstr "HBO/Bachelor"
+
+msgid "mastersDegree"
+msgstr "Master"
+
+msgid "phd"
+msgstr "PhD of Doctoraat"
+
+msgid "contactInfo"
+msgstr "Contactgegevens"
+
+msgid "email"
+msgstr "E-mail:"
+
+msgid "phone"
+msgstr "Telefoon:"
+
+msgid "education"
+msgstr "Opleiding"
+
+msgid "degree"
+msgstr "Diploma:"
+
+msgid "institution"
+msgstr "Instelling:"
+
+msgid "major"
+msgstr "Studierichting:"
+
+msgid "currentRole"
+msgstr "Huidige Functie:"
+
+msgid "company"
+msgstr "Bedrijf:"
+
+msgid "location"
+msgstr "Locatie"
+
+msgid "current"
+msgstr "Huidig:"
+
+msgid "willingToRelocate"
+msgstr "Bereid te Verhuizen:"
+
+msgid "compensation"
+msgstr "Vergoeding"
+
+msgid "desiredSalary"
+msgstr "Gewenst Salaris:"
+
+msgid "matchAnalysis"
+msgstr "Match Analyse"
+
+msgid "strengths"
+msgstr "Sterke Punten:"
+
+msgid "gaps"
+msgstr "Hiaten:"
+
+msgid "loadDemoData"
+msgstr "Laad Demogegevens"
+
+msgid "skillAdded"
+msgstr "Vaardigheid Toegevoegd"
+
+msgid "skillRemoved"
+msgstr "Vaardigheid Verwijderd"
+
+msgid "certificationAdded"
+msgstr "Certificering Toegevoegd"
+
+msgid "certificationRemoved"
+msgstr "Certificering Verwijderd"
+
+msgid "searchComplete"
+msgstr "Zoeken Voltooid"
+
+msgid "found"
+msgstr "Gevonden"
+
+msgid "matchingApplicantsText"
+msgstr "passende kandidaten."
+
+msgid "error"
+msgstr "Fout"
+
+msgid "failedToFetch"
+msgstr "Kon geen passende kandidaten ophalen. Probeer het opnieuw."
+
+msgid "exportComplete"
+msgstr "Export Voltooid"
+
+msgid "exported"
+msgstr "Geëxporteerd"
+
+msgid "applicantsToCSV"
+msgstr "kandidaten naar CSV."
+
+msgid "languageChanged"
+msgstr "Taal Gewijzigd"
+
+msgid "applicationLanguageChanged"
+msgstr "Applicatietaal gewijzigd naar"
+
+msgid "demoDataLoaded"
+msgstr "Demogegevens Geladen"
+
+msgid "sampleJobRequirements"
+msgstr "Voorbeeldfunctie-eisen zijn geladen voor demonstratie."
+
+msgid "justNow"
+msgstr "zojuist"
+
+msgid "years"
+msgstr "Jaren"
+
+msgid "skills"
+msgstr "Vaardigheden"
+
+msgid "certifications"
+msgstr "Certificeringen"
